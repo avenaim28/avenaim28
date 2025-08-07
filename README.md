@@ -1,4 +1,11 @@
-## Hi there 👋
+## # Hi there 👋 I'm Jacob Avenaim
+
+🔭 I’m currently working on building out sample data science projects in Python and SQL  
+🌱 I’m learning more about data engineering tools like dbt, DuckDB, and Snowflake  
+💬 Ask me about people analytics, compensation modeling, and workforce strategy  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobavenaim/)  
+😄 Pronouns: he/him  
+🧠 Favorite Stack: Jupyter + SQL + Pandas + Seaborn
 
 <!--
 **avenaim28/avenaim28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
