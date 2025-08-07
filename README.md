@@ -1,4 +1,4 @@
-## # Hi there 👋 I'm Jacob Avenaim
+## Hi there 👋 I'm Jacob Avenaim
 
 🔭 I’m currently working on building out sample data science projects in Python and SQL  
 🌱 I’m learning more about data engineering tools like dbt, DuckDB, and Snowflake  
